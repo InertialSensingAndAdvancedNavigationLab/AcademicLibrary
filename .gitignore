@@ -1,0 +1,35 @@
+# Created by Gemini
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# LaTeX Auxiliary Files
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+_minted*
+
+# Python Cache and Dependencies
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+
+# Build Artifacts (e.g., final PDF, uncomment if you build it)
+# *.pdf
+
