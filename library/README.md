@@ -1,3 +1,22 @@
 # 学术库索引 (Academic Library Index)
 
 *这里将记录所有已入库的论文及其摘要。*
+
+- [Equivariant Filter Design for Inertial Navigation Systems with Input Measurement Biases](/library/2202.02058v1/)
+- [MSCEKF-MIO: Magnetic-Inertial Odometry Based on Multi-State Constraint Extended Kalman Filter](/library/2505.12634v2/)
+- [SE(3) based Extended Kalman Filter for Spacecraft Attitude Estimation](/library/2003.12978v1/)
+- [Design and Implementation of an Inertial Navigation System for Pedestrians Based on a Low-Cost MEMS IMU](/library/1503.07889v1/)
+- [Collaborative Object Transportation Using MAVs via Passive Force Control](/library/1612.04915v1/)
+- [UAV attitude estimation using Unscented Kalman Filter and TRIAD](/library/1609.07436v1/)
+- [DeepUKF-VIN: Adaptively-tuned Deep Unscented Kalman Filter for 3D Visual-Inertial Navigation based on IMU-Vision-Net](/library/2502.00575v2/)
+- [Equivariant Symmetries for Inertial Navigation Systems](/library/2309.03765v3/)
+- [Observability of Strapdown INS Alignment: A Global Perspective](/library/1112.5282v1/)
+- [Unscented Kalman Filtering on Manifolds for AUV Navigation -- Experimental Results](/library/2210.06510v1/)
+- [A switching Kalman filter approach to online mitigation and correction of sensor corruption for inertial navigation](/library/2412.06601v2/)
+- [The Difference between the Left and Right Invariant Extended Kalman Filter](/library/2507.04568v1/)
+- [Constrained Factor Graph Optimization for Robust Networked Pedestrian Inertial Navigation](/library/2505.08229v1/)
+- [A Hybrid Model and Learning-Based Adaptive Navigation Filter](/library/2207.12082v3/)
+- [Quaternion-based Unscented Kalman Filter for 6-DoF Vision-based Inertial Navigation in GPS-denied Regions](/library/2412.02768v1/)
+- [Estimation for Quadrotors](/library/1809.00037v1/)
+- [Unscented Particle Filter for Visual-inertial Navigation using IMU and Landmark Measurements](/library/2504.19318v1/)
+- [Robust Online Calibration for UWB-Aided Visual-Inertial Navigation with Bias Correction](/library/2508.10999v1/)
